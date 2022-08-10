@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arayuz", "arayuz\arayuz.csproj", "{A424320F-6BBE-4725-B5E9-DA1E40C5E88F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A424320F-6BBE-4725-B5E9-DA1E40C5E88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A424320F-6BBE-4725-B5E9-DA1E40C5E88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A424320F-6BBE-4725-B5E9-DA1E40C5E88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A424320F-6BBE-4725-B5E9-DA1E40C5E88F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82F2BFCB-DDFF-4F37-8267-EAD08C1BC644}
+	EndGlobalSection
+EndGlobal
